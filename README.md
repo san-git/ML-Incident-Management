@@ -1,4 +1,5 @@
 # Incident event data analysis
+https://medium.com/@sanchit.srijit/machine-learning-for-incident-management-process-a4c0a52d5f0f?sk=3da2e92de902556c369105379e20a6a6
 ## Installation
 
 No extra libraries needs to be installed as all the libraries used here comes up wwith the Anaconda distribution with Python3.6.
