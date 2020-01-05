@@ -9,7 +9,7 @@ Incident managment has huge oppertunity around ML use case as these get generate
 
 ## File Descriptions 
 
-The jupyter notebook is the only code file that has all the code and the csv file used for the analysis is in data folder..
+The jupyter notebook is the only code file that has all the code.
 
 ## How To Interact With Your Project 
 
