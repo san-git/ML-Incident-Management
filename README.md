@@ -1,20 +1,20 @@
 # DS-NN-Project
 ## Installation
 
-Extra libraries that are not installed with the Anaconda distribution, as well as what what version of python you are using should be noted.
+No extra libraries needs to be installed as all the libraries used here comes up wwith the Anaconda distribution with Python3.6.
 
 ## Project Motivation 
 
-Discuss what your project is about, and what interested you in pursuing the project.
+Incident managment has huge oppertunity around ML use case as these get generated from huge event log data. Here I thought to analyze Incident event data to see what hidden patterns will help us to come up with impactful ML use case.
 
 ## File Descriptions 
 
-Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
+The jupyter notebook is the only code file that has all the code and the csv file used for the analysis is in data folder..
 
 ## How To Interact With Your Project 
 
-When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project. What were your results? What did you do to improve them? What methods did you try? What worked? What didn't work?
+Fork the repository and contribute on other ideas to analyze for more ML use case around incident managent.
 
 ## Licensing, Authors, Acknowledgements 
 
-You always want to give credit where necessary. Acknowledge other contributors, helpful peers, data providers, etc.
+Dataset is from UCI ML repository in which event log was extracted from data gathered from the audit system of an instance of the ServiceNow platform used by an IT company and enriched with data loaded from a relational Dataset(https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log)
