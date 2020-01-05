@@ -1,4 +1,4 @@
-# DS-NN-Project
+# Incident event data analysis
 ## Installation
 
 No extra libraries needs to be installed as all the libraries used here comes up wwith the Anaconda distribution with Python3.6.
